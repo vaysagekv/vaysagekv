@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Vaysagekv 👋
 
-<!--
-**vaysagekv/vaysagekv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate developer with a keen interest in building impactful software solutions. I enjoy working with modern web technologies, database technologies, system programming and game programming. I like continuously learning new things.
 
-Here are some ideas to get you started:
+## Skills
+- **Languages:** Java, JavaScript, Typescript, C, C++, lisp, Rust, plpgsql 
+- **Frameworks:** Spring Boot, OpenGL
+- **Tools:** Git, Docker
+- **Databases:** PostgreSQL, MySQL, Oracle
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Web Apps
+- Health care
+- Game programming
+- System Programming
+- Open Source Contribution
+- Cloud Computing
+- Machine Learning
+
+## Get in Touch
+- **LinkedIn:** [Vaysage KV](https://www.linkedin.com/in/vaysage-kv-44b84a18)
+- **GitHub:** [github.com/vaysagekv](https://github.com/vaysagekv)
+
+Thanks for visiting my profile!
